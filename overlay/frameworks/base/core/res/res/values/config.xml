@@ -38,5 +38,6 @@
     <integer name="config_button_brightness_default">128</integer>
     <integer name="config_backPanicBehavior">0</integer>
     <bool name="config_useDefaultBatchingForAccel">false</bool>
+    <bool name="config_fingerprintWakeAndUnlock">false</bool>
 
 </resources>
